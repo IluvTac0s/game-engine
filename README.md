@@ -18,16 +18,17 @@ This project is currently in early development.
 - [ ] Collision detection
 - [ ] Editor interface
 
-## directory tree
+## Directory Tree
 ```
 Sergei's Game Engine
 ├── assets
 ├── docs
 ├── include
-├── [LICENSE](LICENSE)
-├── [Readme.md](Readme.md)
+├── LICENSE
+├── README.md
 └── src
     └── main.c
+```
 
 ## Development
 
